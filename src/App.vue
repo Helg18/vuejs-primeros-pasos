@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png" height="64px">
+    <img src="https://helg18.github.io/vuejs-primeros-pasos/assets/logo.png" height="64px">
     <h1>{{ titulo }}</h1>
     <h2>{{ listArtists }}</h2>
     <select name="country" id="country" v-model="selectedCountry">
