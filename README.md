@@ -1,6 +1,8 @@
 # platzimusic
 
 > Curso de intruduccion a Vuejs
+> You can test it on https://helg18.github.io/vuejs-primeros-pasos/index.html
+
 
 ## Build Setup
 
